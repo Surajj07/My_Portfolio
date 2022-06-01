@@ -73,6 +73,7 @@ export default {
 				summary:
 				"Sugar Cosmetics is an Indian company, a brand of choice for the women of today! Where they ensure you have a lot of fun with makeup. Tried to create a user friendly interface with proper functionality. ",
 				preview: "https://github.com/Surajj07/sugarCosmetic.git",
+				git:"https://github.com/Surajj07/sugarCosmetic.git",
 				techStack: [
 					"HTML",
 					"CSS",
@@ -85,7 +86,7 @@ export default {
 				projectName: "Deyga Clone",
 				image: "images/Deyga.png",
 				summary:
-					"Deyga Organics is an Indian skincare brand. Mainly focused on homepage login/signUp, add to cart, and payment part"
+					"Deyga Organics is an Indian skincare brand. Mainly focused on homepage login/signUp, add to cart, and payment part."
 					
 					,
 				preview: "https://loquacious-crostata-006178.netlify.app/",
@@ -95,7 +96,7 @@ export default {
 				projectName: "Pharmeasy",
 				image: "images/pharmeasy.png",
 				summary:
-					"PharmEasy is an online medicine delivery app, which also allows you to buy healthcare products, OTC products & medical equipment online. We did our best to show all pages properly and all functionality part properly",
+					"PharmEasy is an online medicine delivery app, which also allows you to buy healthcare products, OTC products & medical equipment online. We did our best to show all pages properly and all functionality part properly.",
 				preview: "https://relaxed-faloodeh-4bff55.netlify.app/",
 				techStack: ["HTML", "CSS","Bootstrap", "JavaScript","ReactJs	"],
 			},
@@ -113,7 +114,7 @@ export default {
 				"Working of boiler.",
 				"Working of Steam Generator.",
 				"working of Turbine.",
-				"Operation of Coal mill"
+				"Operation of Coal mill."
 			],
 			tags: [
 				"Boiler",
@@ -129,9 +130,9 @@ export default {
 			duration: "May 2018",
 			subtitle: "Intern",
 			details: [
-				"Working of CNC Milling Machine",
-				"Working of CNC Electrical Discharge Machine",
-				"Working of CNC Water Jet Machine",
+				"Working of CNC Milling Machine.",
+				"Working of CNC Electrical Discharge Machine.",
+				"Working of CNC Water Jet Machine.",
 			],
 			tags: [
 			  "CNC"
@@ -146,7 +147,10 @@ export default {
 			duration: "",
 			subtitle: "RVS College of Engineering & Technology,Jamshedpur",
 			details: [
-				"Secured 69.71% Overall semmesters",
+				"Secured 69.71% Overall semmesters.",
+				"Palyed a role of Event Organizer in Cultural Fest at RVS College of Engineering, Jamshedpur.",
+				"Played a role of Student Coordinator in Sports event at RVS College of Engineering, Jamshedpur.",
+				"Played BasketBall and badminton."
 
 			],
 			tags: [
@@ -167,6 +171,7 @@ export default {
 			details: [
 				
 				"Secured 71% in Class 12th Boards Examinations.",
+				"Played Judo at cluster level"
 			],
 			tags: ["Physics", "Chemistry", "Mathematics"],
 			icon: "book",

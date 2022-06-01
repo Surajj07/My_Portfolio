@@ -46,6 +46,11 @@ function populateProjects(items, id) {
 		h4.className = "project-heading";
 		h4.innerHTML = items[i].projectName;
 
+		// let github=document.createElement("a")
+		// github.href=items[i].git;
+		// github.innerText="git link";
+		// github.className='git_hub'
+
 		let a = document.createElement("a");
 		a.href = items[i].preview;
 		a.target = "_blank";
@@ -75,6 +80,8 @@ function populateProjects(items, id) {
 			span.innerHTML = items[i].techStack[k];
 			divSpan.append(span);
 		}
+
+		
 
 		let divSubHeading = document.createElement("div");
 		divSubHeading.className = "sub-heading";
