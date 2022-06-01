@@ -184,7 +184,7 @@ export default {
 				
 				{
 					text: "GitHub",
-					link: "github.com/Surajj07",
+					link: "https://github.com/Surajj07",
 				},
 				
 			],
@@ -211,7 +211,7 @@ export default {
 			data: [
 				{
 					text: "Linkedin",
-					link: "linkedin.com/in/thakursurajbhansingh",
+					link: "https://www.linkedin.com/in/thakursurajbhansingh/",
 				},
 				{
 					text: "Twitter",
