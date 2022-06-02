@@ -202,7 +202,7 @@ export default {
 				},
 				{
 					text: "Clone this page",
-					link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+					link: "https://github.com/Surajj07/My_Portfolio",
 				},
 			],
 		},
